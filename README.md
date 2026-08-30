@@ -23,15 +23,8 @@ $${\color{#8f7b5b}“\space 𝕹𝖔𝖙\space 𝖆\space 𝖇𝖎𝖌\space �
 
 $${\color{#3a5254}“\space 𝕭𝖚𝖙\space 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘𝖊,\space 𝕴𝖓𝖙𝖊𝖗𝖆𝖈𝖙\space 𝖋𝖗𝖊𝖊𝖑𝖞,\space 𝕴\space 𝖉𝖔𝖓'𝖙\space 𝖒𝖎𝖓𝖉\space 𝖉𝖔𝖚𝖇𝖑𝖊𝖘\space 𝖙𝖍𝖆𝖙\space 𝖒𝖚𝖈𝖍\space!\space”}$$
 
-&nbsp;
-
-
-  <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=FIVE-SUNS&color=d18952&label=Panthera+Onca+...>
-</p>
-
-
-&nbsp;
+<p align="center"><img width="30%" height="30%" alt="trickster-online" src="https://github.com/user-attachments/assets/511394c7-4729-4e1d-acfc-31988ba4d141 " />
+</p> 
 
 <p align="center"><img width="45%" height="45%" alt="trickster-online" src="https://github.com/user-attachments/assets/c3c57d71-9c79-4d79-b028-b02c38d5db59" />
 </p>
