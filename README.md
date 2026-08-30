@@ -25,8 +25,11 @@ $${\color{#3a5254}“\space 𝕭𝖚𝖙\space 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘�
 
 &nbsp;
 
-<p align="center"><img width="28%" height="28%" alt="trickster-online" src="https://github.com/user-attachments/assets/20b9871b-27cf-42f3-9c5f-47228ce08593" />
-</p
+
+  <p align="center">
+  <img src=https://komarev.com/ghpvc/?username=FIVE-SUNS&color=d18952&label=Panthera+Onca+...>
+</p>
+
 
 &nbsp;
 
