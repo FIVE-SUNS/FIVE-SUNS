@@ -1,5 +1,5 @@
 
-<p align="center"><img width="35%" height="35%" alt="trickster-online" src="https://github.com/user-attachments/assets/c3c57d71-9c79-4d79-b028-b02c38d5db59" />
+<p align="center"><img width="45%" height="45%" alt="trickster-online" src="https://github.com/user-attachments/assets/c3c57d71-9c79-4d79-b028-b02c38d5db59" />
 </p>
 
 <p align="center"><img width="30%" height="30%" alt="trickster-online" src="https://github.com/user-attachments/assets/1a783390-ff90-452f-a97b-2a9dab83b31e" />
@@ -25,5 +25,10 @@ $${\color{#3a5254}“\space 𝕭𝖚𝖙\space 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘�
 
 &nbsp;
 
-<p align="center"><img width="35%" height="35%" alt="trickster-online" src="https://github.com/user-attachments/assets/c3c57d71-9c79-4d79-b028-b02c38d5db59" />
+<p align="center"><img width="28%" height="28%" alt="trickster-online" src="https://github.com/user-attachments/assets/20b9871b-27cf-42f3-9c5f-47228ce08593" />
+</p
+
+&nbsp;
+
+<p align="center"><img width="45%" height="45%" alt="trickster-online" src="https://github.com/user-attachments/assets/c3c57d71-9c79-4d79-b028-b02c38d5db59" />
 </p>
