@@ -28,8 +28,6 @@ $${\color{#3a5254}“\space 𝕭𝖚𝖙\space 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘�
 <p align="center"><img width="30%" height="30%" alt="trickster-online" src="https://github.com/user-attachments/assets/4f4389b8-5b15-463f-9eb5-127835b89032 " />
 </p>
 
-&nbsp;
-
 <p align="center"><img width="30%" height="30%" alt="trickster-online" src="https://github.com/user-attachments/assets/511394c7-4729-4e1d-acfc-31988ba4d141 " />
 </p> 
 
